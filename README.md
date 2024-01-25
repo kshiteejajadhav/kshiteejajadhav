@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kshiteeja</h1>
 <h3 align="center">A dedicated coder and finance enthusiast. Currently immersing myself in the intricacies of algorithms and financial data analysis.</h3>
 
+
 - 🔭 I’m currently working on **honing my skills in competitive coding and exploring intriguing finance projects.**
 
 - 🌱 I’m currently learning **advanced algorithms and financial modeling techniques.**
