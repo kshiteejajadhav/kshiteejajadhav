@@ -3,7 +3,7 @@
 <h3 align="center">A dedicated coder and finance enthusiast. Currently immersing myself in the intricacies of algorithms and data analysis.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/77/7e/35/777e352c75c03d20857ec826bffa7fb9.jpg">
 
-- 🔭 I’m currently working on **honing my skills in competitive coding and exploring intriguing finance projects.**
+- 🔭 I’m currently working on **honing my skills in competitive coding and exploring intriguing projects.**
 
 - 💬 Ask me about **my favorite books, coding challenges.**
 
