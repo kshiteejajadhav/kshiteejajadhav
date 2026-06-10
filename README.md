@@ -1,19 +1,12 @@
 ![MAsterHead](https://resumekraft.com/wp-content/uploads/2021/08/Information-Technology-linkedin-background-photo.jpg)
 <h1 align="center">Hi 👋, I'm Kshiteeja</h1>
-<h3 align="center">A dedicated coder and finance enthusiast. Currently immersing myself in the intricacies of algorithms and financial data analysis.</h3>
+<h3 align="center">A dedicated coder and finance enthusiast. Currently immersing myself in the intricacies of algorithms and data analysis.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/77/7e/35/777e352c75c03d20857ec826bffa7fb9.jpg">
 
 - 🔭 I’m currently working on **honing my skills in competitive coding and exploring intriguing finance projects.**
 
-- 🌱 I’m currently learning **advanced algorithms and financial modeling techniques.**
+- 💬 Ask me about **my favorite books, coding challenges.**
 
-- 👯 I’m looking to collaborate on **projects that blend coding excellence with financial insights.**
-
-- 💬 Ask me about **my favorite books, coding challenges, or anything finance-related!**
-
-- 📫 How to reach me **kshiteejajadhav44@gmail.com**
-
-- ⚡ Fun fact **Balancing the worlds of literature, coding, and finance is where I find my equilibrium.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
